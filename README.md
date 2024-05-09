@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li><h5>이름 : 한충희</h5></li>
   <li><h5>학교 : 동국대학교</h5></li>
   <li><h5>학과 : 정치외교학과</h5></li>
-  <li><h5>포트폴리오 : <a href="">Click Here</a></h5></li>
+  <li><h5>포트폴리오 : <a href="https://emphasized-glade-e4c.notion.site/Chung-Hui-Han-c5fc8c2790a545eeb684da70289b6c64?pvs=4">Click Here</a></h5></li>
 </ul>
 
 <br>
