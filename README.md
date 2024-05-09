@@ -56,5 +56,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 </div>
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongdamhwa&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongdamhwa&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
